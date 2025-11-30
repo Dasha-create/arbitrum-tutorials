@@ -5,3 +5,4 @@ packages/**/build/**
 packages/**/cache/**
 packages/**/dist/**
 packages/**/node_modules/**
+dist/**
